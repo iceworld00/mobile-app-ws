@@ -1,0 +1,12 @@
+com\iceworld\app\ws\ui\model\response\UserProfileRest.class
+com\iceworld\app\ws\ui\model\response\ErrorMessages.class
+com\iceworld\app\ws\ui\model\request\CreateUserRequestModel.class
+com\iceworld\app\ws\service\UsersService.class
+com\iceworld\app\ws\exceptions\MissingRequiredFieldException.class
+com\iceworld\app\ws\App.class
+com\iceworld\app\ws\shared\dto\UserDTO.class
+com\iceworld\app\ws\ui\model\response\ErrorMessage.class
+com\iceworld\app\ws\ui\entrypoints\UsersEntryPoint.class
+com\iceworld\app\ws\utils\UserProfileUtils.class
+com\iceworld\app\ws\exceptions\MissingRequiredFieldExceptionMapper.class
+com\iceworld\app\ws\service\impl\UsersServiceImpl.class
